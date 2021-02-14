@@ -1,0 +1,9 @@
+
+J
+java:S1068	"(Remove this unused "port" private field.(ß³†ÿÿÿÿÿ8‘¯“çø.
+C
+java:S1068
+"&Remove this unused "ip" private field.(ŞáïÈ8†×“çø.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£¼•éùÿÿÿÿ8•ºçø.
+J	java:S108")Either remove or fill this block of code.(• ¿úûÿÿÿÿ8ÚˆŸçø.

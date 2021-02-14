@@ -1,0 +1,23 @@
+
+m
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(æ²õ·
+N
+java:S5993$"9Change the visibility of this constructor to "protected".(Óìr
+\
+java:S2142r"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+java:S5993("9Change the visibility of this constructor to "protected".(öåô†üÿÿÿÿ
+Q
+java:S3740"/Provide the parametrized type for this generic.(ıƒüÿÿÿÿ8”äç¹ù.
+L
+java:S3740y"/Provide the parametrized type for this generic.(ßõ•ÿ8”äç¹ù.
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ıƒüÿÿÿÿ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(šÑ‚¤úÿÿÿÿ
+^
+java:S1117„";Rename "channel" which hides the field declared at line 24.(©×ÔÎúÿÿÿÿ8ù—¿Ïù.
+^
+java:S1117Œ";Rename "channel" which hides the field declared at line 24.(©×ÔÎúÿÿÿÿ8ôú¿Ïù.
+m
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¿Ê”ü

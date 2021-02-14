@@ -1,0 +1,27 @@
+
+O
+java:S1068"4Remove this unused "currentRetryTime" private field.(»ÇØôùÿÿÿÿ
+T
+java:S1068">Remove this unused "closeAfterReconnectTimeout" private field.(±ì±
+N
+java:S1068"3Remove this unused "startupMaxRetry" private field.(¬ÛÒåşÿÿÿÿ
+K
+java:S1068"5Remove this unused "disconnectTimeout" private field.(Âÿ–Ş
+J
+java:S1068"4Remove this unused "disconnectedTime" private field.(ªéàá
+L
+java:S1068"1Remove this unused "onceConnected" private field.(«ÓÓÈÿÿÿÿÿ
+R
+java:S1068"<Remove this unused "closeAfterStartupTimeout" private field.(®€øª
+L
+java:S1068"6Remove this unused "disconnectMaxRetry" private field.(¹òŸœ
+T
+java:S1068"2Remove this unused "startupTimeout" private field.(ºşÇâúÿÿÿÿ8·‡çø.
+F
+java:S1068"0Remove this unused "maxRetryTime" private field.(ÃúéÍ
+I
+java:S1068".Remove this unused "retryCoeff" private field.(«ÙèÙıÿÿÿÿ
+C
+java:S1068"-Remove this unused "startTime" private field.(Ø¿ìã
+\
+java:S2142K"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

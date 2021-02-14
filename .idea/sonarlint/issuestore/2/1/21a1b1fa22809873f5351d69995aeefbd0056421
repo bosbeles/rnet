@@ -1,0 +1,12 @@
+
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(‹´£„şÿÿÿÿ8ÊåÑù.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(óåî8Œ²ÙĞù.
+N
+java:S1602A",Remove useless curly braces around statement(‚ıáêúÿÿÿÿ8Œ²ÙĞù.
+N
+java:S1602F",Remove useless curly braces around statement(‚ıáêúÿÿÿÿ8„âÙĞù.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(Ä•¾Ä8„âÙĞù.
+^
+java:S1128"ARemove this unused import 'org.example.rnet.sim.IdentityMessage'.(ÿÎüÓ8ªî‘Ñù.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÒŞ§—üÿÿÿÿ8äÑ»ºù.
